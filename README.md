@@ -1,2 +1,2 @@
 # web-scraper
-A web scraper written in Python
+## Web scraper for collecting Stock price data
